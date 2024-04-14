@@ -33,7 +33,7 @@ To create one R script called run_analysis.R that does the following:
 
 This repository contains the following files:
 
-`README.md` - for the overview of the project.
-`run_analysis.R` - which contains the final R code.
-`CodeBook.md` -  which describes the variables, the data, and the transformations that were performed to clean up the data.
-`tidyDataSet` - which contains the final tidy dataset.
+`README.md` - for the overview of the project.  
+`run_analysis.R` - which contains the final R code.  
+`CodeBook.md` -  which describes the variables, the data, and the transformations that were performed to clean up the data.  
+`tidyDataSet` - which contains the final tidy dataset.  
